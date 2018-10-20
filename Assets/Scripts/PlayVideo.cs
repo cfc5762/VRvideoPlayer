@@ -7,7 +7,7 @@ public class PlayVideo : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
-        GetComponent<VideoPlayer>().clip = Resources.Load<VideoClip>("Videos/720360");
+        GetComponent<VideoPlayer>().clip = Resources.Load<VideoClip>("Videos/🔴 Best 360 VR VIDEO 4K");
        // GetComponent<VideoPlayer>().source = Resources.Load<VideoClip>("Videos/Sonic Animation - SONIC THE HEDGEHOG BATTLE 360° VR- SFM Animation (Sonic Animation)");
         GetComponent<VideoPlayer>().Prepare();
         
